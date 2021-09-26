@@ -1,6 +1,6 @@
 const petik = '```'
 const help = (prefix,hari, Wita, Wit, ucapannya, Wib, wa_version, mcc, mnc, os_version, device_manufacturer, device_model, tampilTanggall)=> {
-	return`┏━━⬣ *INDONESIA TIME*
+	return`┏━━⬣ *Sam Pandey*
 ┃
 ${petik}┃ ⬡ WIB : ${Wib}
 ┃ ⬡ WITA : ${Wita}
@@ -177,7 +177,7 @@ ${petik}│ ⤷ ${prefix}=> [eval async]
 │ ⤷ ${prefix}> [eval]
 │ ⤷ ${prefix}$ <termux cmd>${petik}
 │
-╰──「 *Alphabot* 」
+╰──「 *Sam Pandey* 」
 `
 }
 
